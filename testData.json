@@ -1,0 +1,17 @@
+{
+    "appURL": "https://knewless.tk/",
+    "emailURL": "https://10minutemail.net",
+    "addCourseRoute": "/add_course",
+    "loginRoute": "/login",
+    "registerRoute": "/register",
+    "registerPassword": "123123test",
+    "email": "clarkkent@mail.com",
+    "password":"clarkkent",
+    "invalidEmail":"test123",
+    "invalidPassword":"_01wroe",
+    "courseName":"Course1",
+    "courseLevel":"Advanced",
+    "courseDescription": "testtestesttdescription",
+    "apiKey":"bb84ec27617eb052622be0a95f3e5d0507a11b0fda25fba981300f3eeaa9907a"
+
+}
